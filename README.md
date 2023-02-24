@@ -1,5 +1,6 @@
 # Cocktail Info
 A React website that fetchs data from [TheCocktailDB](https://www.thecocktaildb.com/) and show them as cards on this site.
+It lives at [here](https://whiteshadow1234.github.io/Cocktail-Info/)
 
 ## Screens
 ### Landing Page
